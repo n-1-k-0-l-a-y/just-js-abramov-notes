@@ -1,4 +1,4 @@
-#### Reading notes of [Just JavaScript](https://justjavascript.com/) - an online course that could better prepare you to understand JavaScript by [@Dan Abramov](https://github.com/gaearon).
+#### Reading notes of [Just JavaScript](https://justjavascript.com/) - an online course that could better prepare you to understand JavaScript by Dan Abramov.
 
 #### Table of contents:
 
