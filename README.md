@@ -1,6 +1,6 @@
-### Reading notes of [Just JavaScript](https://justjavascript.com/) - an online course that could better prepare you to understand JavaScript by [@Dan Abramov](https://github.com/gaearon).
+#### Reading notes of [Just JavaScript](https://justjavascript.com/) - an online course that could better prepare you to understand JavaScript by [@Dan Abramov](https://github.com/gaearon).
 
-### Table of contents:
+#### Table of contents:
 
 - [01. Mental Models](issuelink)
 - [02. The JavaScript Universe](issuelink)
