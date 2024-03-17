@@ -4,7 +4,7 @@
 
 - [01. Mental Models](https://github.com/n-1-k-0-l-a-y/just-js-abramov-notes/issues/1)
 - [02. The JavaScript Universe](https://github.com/n-1-k-0-l-a-y/just-js-abramov-notes/issues/2)
-- [03. Values and Variables](issuelink)
+- [03. Values and Variables](https://github.com/n-1-k-0-l-a-y/just-js-abramov-notes/issues/3)
 - [04. Counting the Values (Part 1)](issuelink)
 - [05. Counting the Values (Part 2)](issuelink)
 - [06. Equality of Values](issuelink)
