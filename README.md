@@ -3,7 +3,7 @@
 #### Table of contents:
 
 - [01. Mental Models](https://github.com/n-1-k-0-l-a-y/just-js-abramov-notes/issues/1)
-- [02. The JavaScript Universe](issuelink)
+- [02. The JavaScript Universe](https://github.com/n-1-k-0-l-a-y/just-js-abramov-notes/issues/2)
 - [03. Values and Variables](issuelink)
 - [04. Counting the Values (Part 1)](issuelink)
 - [05. Counting the Values (Part 2)](issuelink)
